@@ -16,7 +16,9 @@
         ]
       ],
       "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/noobdive.png",
-      "gameid": "215173"
+      "gameid": "215173",
+      "pc": true,
+      "mobile": true
     },
     {
       "names": [
@@ -34,7 +36,9 @@
         ]
       ],
       "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/tilebusted.png",
-      "gameid": "358449"
+      "gameid": "358449",
+      "pc": false,
+      "mobile": true
     }
   ]
 }
