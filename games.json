@@ -17,24 +17,6 @@
       ],
       "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/noobdive.png",
       "gameid": "215173"
-    },
-    {
-      "names": [
-        [
-          "en",
-          "Tile Busted"
-        ],
-        [
-          "ru",
-          "Tile Busted"
-        ],
-        [
-          "tr",
-          "Tile Busted"
-        ]
-      ],
-      "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/tilebusted.png",
-      "gameid": "358449"
     }
   ]
 }
