@@ -1,1 +1,2 @@
-noobdive,noobdiveru,noobdivetr,logo.png,linkru,linkeng,
+Noob Dive,Нуб Дайв,Noobik Dalıyor,https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/noobdive.png,https://yandex.com/games/app/215173,https://yandex.ru/games/app/215173,
+Tile Busted,Tile Busted,Tile Busted,https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/tilebusted.png,https://yandex.com/games/app/358449,https://yandex.ru/games/app/358449,
