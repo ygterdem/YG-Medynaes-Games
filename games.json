@@ -36,7 +36,9 @@
         ]
       ],
       "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/tilebusted.png",
-      "gameid": "358449"
+      "gameid": "358449",
+      "pc": false,
+      "mobile": true
     }
     ,
     {
@@ -55,7 +57,9 @@
         ]
       ],
       "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/solitaire.png",
-      "gameid": "362646"
+      "gameid": "362646",
+      "pc": true,
+      "mobile": true
     }
   ]
 }
