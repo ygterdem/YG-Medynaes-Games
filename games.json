@@ -19,6 +19,43 @@
       "gameid": "215173",
       "pc": true,
       "mobile": true
+    },
+    {
+      "names": [
+        [
+          "en",
+          "Tile Busted"
+        ],
+        [
+          "ru",
+          "Tile Busted"
+        ],
+        [
+          "tr",
+          "Tile Busted"
+        ]
+      ],
+      "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/tilebusted.png",
+      "gameid": "358449"
+    }
+    ,
+    {
+      "names": [
+        [
+          "en",
+          "Solitaire Madness"
+        ],
+        [
+          "ru",
+          "Solitaire Madness"
+        ],
+        [
+          "tr",
+          "Solitaire Madness"
+        ]
+      ],
+      "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/solitaire.png",
+      "gameid": "362646"
     }
   ]
 }
