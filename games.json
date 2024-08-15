@@ -35,7 +35,7 @@
           "Tile Busted"
         ]
       ],
-      "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/obby.png",
+      "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/tilebusted.png",
       "gameid": "358449",
       "pc": false,
       "mobile": true
@@ -58,6 +58,26 @@
       ],
       "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/solitaire.png",
       "gameid": "362646",
+      "pc": true,
+      "mobile": true
+    },
+    {
+      "names": [
+        [
+          "en",
+          "Jumping obby"
+        ],
+        [
+          "ru",
+          "Jumping obby"
+        ],
+        [
+          "tr",
+          "Jumping obby"
+        ]
+      ],
+      "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/obby.png",
+      "gameid": "363419",
       "pc": true,
       "mobile": true
     }
