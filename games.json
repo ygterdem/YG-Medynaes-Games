@@ -4,6 +4,26 @@
       "names": [
         [
           "en",
+          "Diving obby"
+        ],
+        [
+          "ru",
+          "Diving obby"
+        ],
+        [
+          "tr",
+          "Diving obby"
+        ]
+      ],
+      "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/divingobby.png.png",
+      "gameid": "371181",
+      "pc": true,
+      "mobile": true
+    },
+    {
+      "names": [
+        [
+          "en",
           "Jumping obby"
         ],
         [
