@@ -4,6 +4,26 @@
       "names": [
         [
           "en",
+          "Droppy Tower"
+        ],
+        [
+          "ru",
+          "Droppy Tower"
+        ],
+        [
+          "tr",
+          "Droppy Tower"
+        ]
+      ],
+      "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/droppytower.png",
+      "gameid": "372852",
+      "pc": true,
+      "mobile": true
+    },
+    {
+      "names": [
+        [
+          "en",
           "Diving obby"
         ],
         [
