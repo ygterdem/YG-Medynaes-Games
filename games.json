@@ -97,7 +97,7 @@
       ],
       "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/tilebusted.png",
       "gameid": "358449",
-      "pc": false,
+      "pc": true,
       "mobile": true
     }
     ,
