@@ -1,26 +1,6 @@
 {
   "games": [
-    {
-      "names": [
-        [
-          "en",
-          "Droppy Tower"
-        ],
-        [
-          "ru",
-          "Droppy Tower"
-        ],
-        [
-          "tr",
-          "Droppy Tower"
-        ]
-      ],
-      "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/droppytower.png",
-      "gameid": "372852",
-      "pc": true,
-      "mobile": true
-    },
-    {
+        {
       "names": [
         [
           "en",
@@ -64,60 +44,19 @@
       "names": [
         [
           "en",
-          "Noob Dive"
+          "Route 66"
         ],
         [
           "ru",
-          "Нуб Дайв"
+         "Route 66"
         ],
         [
           "tr",
-          "Noobik Dalıyor"
+          "Route 66"
         ]
       ],
-      "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/noobdive.png",
-      "gameid": "215173",
-      "pc": true,
-      "mobile": true
-    },
-    {
-      "names": [
-        [
-          "en",
-          "Tile Busted"
-        ],
-        [
-          "ru",
-          "Tile Busted"
-        ],
-        [
-          "tr",
-          "Tile Busted"
-        ]
-      ],
-      "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/tilebusted.png",
-      "gameid": "358449",
-      "pc": true,
-      "mobile": true
-    }
-    ,
-    {
-      "names": [
-        [
-          "en",
-          "Solitaire Madness"
-        ],
-        [
-          "ru",
-          "Solitaire Madness"
-        ],
-        [
-          "tr",
-          "Solitaire Madness"
-        ]
-      ],
-      "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/solitaire.png",
-      "gameid": "362646",
+      "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/route66.png",
+      "gameid": "377091",
       "pc": true,
       "mobile": true
     }

@@ -1,0 +1,126 @@
+{
+    "games": [
+      {
+        "names": [
+          [
+            "en",
+            "Droppy Tower"
+          ],
+          [
+            "ru",
+            "Droppy Tower"
+          ],
+          [
+            "tr",
+            "Droppy Tower"
+          ]
+        ],
+        "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/droppytower.png",
+        "gameid": "372852",
+        "pc": true,
+        "mobile": true
+      },
+      {
+        "names": [
+          [
+            "en",
+            "Diving obby"
+          ],
+          [
+            "ru",
+            "Diving obby"
+          ],
+          [
+            "tr",
+            "Diving obby"
+          ]
+        ],
+        "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/divingobby.png",
+        "gameid": "371181",
+        "pc": true,
+        "mobile": true
+      },
+      {
+        "names": [
+          [
+            "en",
+            "Jumping obby"
+          ],
+          [
+            "ru",
+            "Jumping obby"
+          ],
+          [
+            "tr",
+            "Jumping obby"
+          ]
+        ],
+        "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/obby.png",
+        "gameid": "363419",
+        "pc": true,
+        "mobile": true
+      },
+      {
+        "names": [
+          [
+            "en",
+            "Noob Dive"
+          ],
+          [
+            "ru",
+            "Нуб Дайв"
+          ],
+          [
+            "tr",
+            "Noobik Dalıyor"
+          ]
+        ],
+        "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/noobdive.png",
+        "gameid": "215173",
+        "pc": true,
+        "mobile": true
+      },
+      {
+        "names": [
+          [
+            "en",
+            "Tile Busted"
+          ],
+          [
+            "ru",
+            "Tile Busted"
+          ],
+          [
+            "tr",
+            "Tile Busted"
+          ]
+        ],
+        "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/tilebusted.png",
+        "gameid": "358449",
+        "pc": true,
+        "mobile": true
+      }
+      ,
+      {
+        "names": [
+          [
+            "en",
+            "Solitaire Madness"
+          ],
+          [
+            "ru",
+            "Solitaire Madness"
+          ],
+          [
+            "tr",
+            "Solitaire Madness"
+          ]
+        ],
+        "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/solitaire.png",
+        "gameid": "362646",
+        "pc": true,
+        "mobile": true
+      }
+      
+    ]
+  }
