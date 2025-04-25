@@ -39,26 +39,6 @@
       "gameid": "363419",
       "pc": true,
       "mobile": true
-    },
-    {
-      "names": [
-        [
-          "en",
-          "Route 66"
-        ],
-        [
-          "ru",
-         "Route 66"
-        ],
-        [
-          "tr",
-          "Route 66"
-        ]
-      ],
-      "imageURL": "https://raw.githubusercontent.com/ygterdem/YG-Medynaes-Games/main/images/route66.png",
-      "gameid": "377091",
-      "pc": true,
-      "mobile": true
     }
     
   ]
